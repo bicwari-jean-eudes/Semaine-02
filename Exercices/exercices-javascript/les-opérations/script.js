@@ -6,9 +6,24 @@ function modulo(a,b) { return a%b;};modulo(3,2);
 function modulo(a,b) { return a%b;};modulo(178,2);
 function modulo(a,b) { return a%b;};modulo(65,2);
 function modulo(a,b) { return a%b;};modulo(98,2);
-function modulo(a,b) { return a%b;};modulo(123,2);/Insérez ici les exercices 2.1 à 2.4
+function modulo(a,b) { return a%b;};modulo(123,2);
+function division(a,b) { return a/b;};division(19,100);
+function multiplication(a,b) { return a*b;};multiplication(79.9,0.19);
+function soustraction(a,b) { return a-b;};soustraction(79.9,15.181);
+/Insérez ici les exercices 2.1 à 2.4
 
-// Insérez ici les exercices 2.4 à 2.8 en utilisant les variables déjà créées à votre disposition
+//function division(a,b) { return a/b;};division(9,3);
+function addition(a,b) { return a+b;};addition(9,8);
+function multiplication(a,c) { return a*c;};multiplication(9,4);
+function soustraction(d,a) { return d-a;};soustraction(12,9);
+function incrémentation(a) { return a--;};incrémentation(9);
+function décrémentation(a) { return a--;};décrémentation(9);
+
+
+
+
+
+Insérez ici les exercices 2.4 à 2.8 en utilisant les variables déjà créées à votre disposition
 
 let firstNumber = 9;
 let secondNumber = 8;
